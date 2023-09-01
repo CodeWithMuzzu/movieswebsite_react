@@ -1,5 +1,5 @@
 # MovieLand - Movie Search App (UI)
-![image](https://drive.google.com/file/d/1pl4DETNiSQKYktFOxmiCAp-oRqj-MQsD/view?usp=drive_link)
+![Screenshot from 2023-09-01 16-58-40](https://github.com/CodeWithMuzzu/movieswebsite_react/assets/122872433/755fdd0c-84d1-421d-81e6-27360163c038)
 MovieLand is a simple React application that allows you to search for movies using the OMDB API and display the results in a visually appealing way. This project is open for contributions, and this README will guide you through the process of forking and cloning the repository, setting up the development environment, and contributing to the project.
 
 # Features
